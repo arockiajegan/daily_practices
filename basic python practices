@@ -1,7 +1,15 @@
-print ("hello jegan")
-
-a=10 
-b=20 
-c=a+b
-print(c)
-
+#Practice 1 
+#Written by : Arockia Jegan 
+#Source from Mosh python Youtube
+name= input("what is your name? ")
+print('*' * 20)
+print ("hello " + name) 
+print('*' * 20)
+color= input("what is your fav color? ")
+print('*' * 20)
+print("fav color is " + color)
+print('*' * 20)
+print('*' * 20)
+print (name + '\'s fav color is ' + color)
+print('*' * 20)
+print('*' * 20)
